@@ -158,7 +158,7 @@ class ItemRepositoryTest {
 
     }
 
-    @Test
+    //@Test
     @DisplayName("상품 queryDsl 조회테스트2")
     public void queryDslTest2(){
         this.createItemTest2();

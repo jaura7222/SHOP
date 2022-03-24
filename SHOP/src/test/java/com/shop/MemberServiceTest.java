@@ -52,7 +52,7 @@ public class MemberServiceTest {
 
     }
 
-    @Test
+    //@Test
     @DisplayName("중복 회원가입 테스트")
     public void saveDuplicateMemberTest(){
         Member member1 = createMember();
